@@ -1,0 +1,5 @@
+img[Attributes Style] {
+    width: 500px;
+    aspect-ratio: auto 500 / 600;
+    height: 600px;
+}
