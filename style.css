@@ -5,12 +5,18 @@ img[Attributes Style] {
 }
 
 .image1{
+    
+    padding-left: 32%;
+
     width: 500PX;
     height: 500PX;
     text-align: center;
     color: black;
 }
-h1
+.h2header { 
+
+}
+<h1>
 {
     text-align: center;
     font-size: 50px;
